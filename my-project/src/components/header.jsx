@@ -3,7 +3,7 @@ import React from "react";
 export default function HeaderSection(){
 return(
 <div>
-<ul className="flex justify-evenly  font-semibold   ">
+<ul className="flex justify-evenly font-semibold  text-[#9BB118]  text-2xl">
 <li>Home</li>
 <li>
     About 
